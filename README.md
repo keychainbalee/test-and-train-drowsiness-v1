@@ -19,8 +19,8 @@ Dataset yang digunakan berasal dari Kaggle:
 
 Dataset terdiri dari citra wajah pengemudi dengan dua kelas utama:
 
-* **Drowsy** → Pengemudi mengantuk
-* **Non-Drowsy** → Pengemudi tidak mengantuk
+* **Drowsy** → Muka mengantuk
+* **Non-Drowsy** → Muka tidak mengantuk
 
 Citra dikumpulkan dari berbagai individu dengan variasi pencahayaan, pose wajah, dan ekspresi, sehingga cocok untuk melatih model klasifikasi berbasis CNN.
 
