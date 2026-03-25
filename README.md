@@ -4,8 +4,6 @@
 
 Proyek ini bertujuan untuk membangun **model klasifikasi berbasis Deep Learning** yang mampu mendeteksi kondisi **kantuk pengemudi (driver drowsiness)** menggunakan citra wajah. Model dilatih menggunakan **Driver Drowsiness Dataset (DDD)** dari Kaggle dan diimplementasikan dalam bentuk *Jupyter Notebook* (`.ipynb`).
 
-Deteksi kantuk pengemudi sangat penting dalam bidang **keselamatan berkendara**, karena dapat membantu mencegah kecelakaan lalu lintas akibat kelelahan atau mengantuk.
-
 ---
 
 ## 📂 Dataset
